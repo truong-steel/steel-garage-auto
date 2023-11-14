@@ -192,6 +192,7 @@ td button {
 .pagination button {
 	width: 48px;
 	font-family: inherit;
+	cursor: pointer;
 }
 
 footer {
